@@ -1,14 +1,3 @@
 # raycast-subcontext-pipe
 ... and in the Darkness bind them
-
-## Try CommonMark
-
-You can try CommonMark here.  This dingus is powered by
-[commonmark.js](https://github.com/commonmark/commonmark.js), the
-JavaScript reference implementation.
-
-1. item one
-2. item two
-   - sublist
-   - sublist
-
+![MMI™ Flammarion Logo Badge](/Markdown-Lessons-Project/assets/img/svg/MMI-Medmj-Org-Got-Tree-Flammarion-Person-Through-Celestial-Sphere-circle-543-x-543.svg){:height="500px" width="500px"}
