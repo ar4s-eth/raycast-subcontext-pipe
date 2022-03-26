@@ -1,8 +1,5 @@
 # raycast-subcontext-pipe
 ... and in the Darkness bind them
 
- *
- * Pinned URL: (Optimized for Production)
- *   Normal: https://cdn.skypack.dev/pin/preact@v10.5.5-zWGbvQRMya5StgDc7dPs/preact.js
- *   Minified: https://cdn.skypack.dev/pin/preact@v10.5.5-zWGbvQRMya5StgDc7dPs/min/preact.js
- *
+Pinned:            https://cdn.skypack.dev/pin/react@v16.13.1-zjOHmKoBShdi3wIQWY2z/react.js
+Pinned + Minified: https://cdn.skypack.dev/pin/react@v16.13.1-zjOHmKoBShdi3wIQWY2z/min/react.js
